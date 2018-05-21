@@ -9,5 +9,7 @@ Academic project completed during deeplearning.ai course.
 2. Happy House Project : Dataset - Pictures of faces of people. Goal was to classify faces in two categories : happy and unhappy. if network says happy then only the person will
 be allowed to enter the house. Used Convonet Architecture implemented with Keras framework.
 
-3. Resnet Implementation : Implemented Residual Network using Keras and Tensorflow
+3. Dog Breed Classification : This is a featured competition at Kaggle. I participated in that competition and contributed this project. Implemented pretrained vgg19 neural network architecture for prediction of 120 breed classes. 
+
+4. Resnet Implementation : Implemented Residual Network Architecture using Keras and Tensorflow 
 
