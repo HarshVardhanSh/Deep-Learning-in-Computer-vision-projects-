@@ -14,3 +14,5 @@ be allowed to enter the house. Used Convonet Architecture implemented with Keras
 4. Resnet Implementation : Implemented Residual Network Architecture using Keras and Tensorflow 
 
 5. Autonomous driving application : Car Detection with Yolo - In this project, Implemented Yolo paper with exact details written in the paper. This project was completed as a part of deep learning Specialization.
+
+6. Face Recognition for Happy House : Implemented Facial Recognition system used in FaceNet with Inception Network. Implemented triplet loss, Face Verification and Face Recognition with pretrained weights of Inception Network. 
