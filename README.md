@@ -13,3 +13,4 @@ be allowed to enter the house. Used Convonet Architecture implemented with Keras
 
 4. Resnet Implementation : Implemented Residual Network Architecture using Keras and Tensorflow 
 
+5. Autonomous driving application : Car Detection with Yolo - In this project, Implemented Yolo paper with exact details written in the paper. This project was completed as a part of deep learning Specialization.
