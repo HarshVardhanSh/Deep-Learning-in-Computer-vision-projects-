@@ -16,3 +16,5 @@ be allowed to enter the house. Used Convonet Architecture implemented with Keras
 5. Autonomous driving application : Car Detection with Yolo - In this project, Implemented Yolo paper with exact details written in the paper. This project was completed as a part of deep learning Specialization.
 
 6. Face Recognition for Happy House : Implemented Facial Recognition system used in FaceNet with Inception Network. Implemented triplet loss, Face Verification and Face Recognition with pretrained weights of Inception Network. 
+
+7. Neural Style Transfer : Implemented Neural Style Transfer with VGG19 Architecture. Implemented Content Matrix, Style Matrix, and Content cost and Style cost to ultimately find the Cost function for the Network, which is linear combination of the former two costs. 
